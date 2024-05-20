@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align='center'>
+ 🌊 TheGreatWaves 🌊
+</h1>
 
-<!--
-**TheGreatWaves/TheGreatWaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>Hello! I'm a just your average hobbyist programmer with a special interest in low-level programming and doing things the spartan way.</p>
 
-Here are some ideas to get you started:
+<p align='center'>
+  <a href="https://www.linkedin.com/in/ochawin-apichattakul-0a5539309/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
+  <a href="https://thegreatwaves.github.io/" target="blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="site"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>Techonologies I love (sometimes)</p>
+
+<p align='center'>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp"/>
+  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="rust"/>
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+<br>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white alt="Docker"/>
+  <img src="https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo alt="Hugo"/>
+</p>
