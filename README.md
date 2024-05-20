@@ -2,7 +2,12 @@
  🌊 TheGreatWaves 🌊
 </h1>
 
-<p align='center'>Hello! I'm a just your average hobbyist programmer with a special interest in low-level programming and doing things the spartan way.</p>
+<p align='center'>
+ <img src="https://i.pinimg.com/originals/5c/55/87/5c5587e73749bf25551866f765191ad1.gif" alt="Computer man" style="width:500px;height:400px;">
+</p>
+
+
+<p align='center'>Hello! I'm a just your average hobbyist programmer with a special <br> interest in low-level programming and doing things the spartan way.</p>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/ochawin-apichattakul-0a5539309/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
