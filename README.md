@@ -1,18 +1,14 @@
 <h1 align='center'>
- 🌊 TheGreatWaves 🌊
+ TheGreatWaves
 </h1>
-
+<br>
 <p align='center'>
- <img src="https://i.pinimg.com/originals/5c/55/87/5c5587e73749bf25551866f765191ad1.gif" alt="Computer man" style="width:500px;height:400px;">
+ <img src="https://ids.hvrd.art/ids/view/496796023?width=3000&height=3000" alt="Waves" height="375px" width="auto">
 </p>
 
+<p align='center'>I'm just your average hobbyist programmer with a special <br> interest in low-level programming and doing things the spartan way.</p>
 
-<p align='center'>Hello! I'm a just your average hobbyist programmer with a special <br> interest in low-level programming and doing things the spartan way.</p>
-
-<p align='center'>
-  <a href="https://www.linkedin.com/in/ochawin-apichattakul-0a5539309/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
-  <a href="https://thegreatwaves.github.io/" target="blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="site"/></a>
-</p>
+<h1></h1>
 
 <p align='center'>Techonologies I love (sometimes)</p>
 
@@ -23,4 +19,11 @@
 <br>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white alt="Docker"/>
   <img src="https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo alt="Hugo"/>
+</p>
+
+<p align='center'>About Me</p>
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/ochawin-apichattakul-0a5539309/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
+  <a href="https://thegreatwaves.github.io/" target="blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="site"/></a>
 </p>
