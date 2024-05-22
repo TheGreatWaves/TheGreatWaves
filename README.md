@@ -3,7 +3,7 @@
 </h1>
 <br>
 <p align='center'>
- <img src="https://ids.hvrd.art/ids/view/496796023?width=3000&height=3000" alt="Waves" height="300px" width="auto">
+ <a href="#"><img src="https://ids.hvrd.art/ids/view/496796023?width=3000&height=3000" alt="Waves" height="300px" width="auto"></a>
 </p>
 
 <p align='center'>I'm just your average hobbyist programmer with a special <br> interest in low-level programming and doing things the spartan way.</p>
@@ -13,12 +13,12 @@
 <p align='center'>Techonologies I love (sometimes)</p>
 
 <p align='center'>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp"/>
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="rust"/>
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <a href="#"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="rust"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></a>
 <br>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white alt="Docker"/>
-  <img src="https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo alt="Hugo"/>
+  <a href="#"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white alt="Docker"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo alt="Hugo"/></a>
 </p>
 
 <p align='center'>About Me</p>
