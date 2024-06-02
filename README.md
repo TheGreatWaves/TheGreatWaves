@@ -2,11 +2,8 @@
  TheGreatWaves
 </h1>
 <br>
-<p align='center'>
- <a href="#"><img src="https://ids.hvrd.art/ids/view/496796023?width=3000&height=3000" alt="Waves" height="300px" width="auto"></a>
-</p>
 
-<p align='center'>I'm just your average hobbyist programmer with a special <br> interest in low-level programming and doing things the spartan way.</p>
+<p align='center'>I love low level stuff.</p>
 
 <h1></h1>
 
